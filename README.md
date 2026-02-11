@@ -43,7 +43,7 @@ The primary objective was to interconnect three independent organizations while 
 
 ## 📂 Deliverables
 * `.pkt` file: The complete Cisco Packet Tracer simulation.
-* `cn report.docx`: Detailed technical report covering design and analysis.
+* `City-Wide Corporate Network Design report.docx`: Detailed technical report covering design and analysis.
 
 ---
 **Project by:** Shumaila Arif 
